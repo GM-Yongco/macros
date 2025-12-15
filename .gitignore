@@ -1,5 +1,19 @@
 __pycache__
-*.exe
+settings.json
+./.vscode
+tempCodeRunnerFile.py
+*.code-workspace
+_.py
 
-temp.py
-restart_for_c_reference.txt
+*.png
+*.jpg
+*.jpeg
+
+temp_*
+temp.*
+logs*
+secret*
+
+*.env
+*.db
+*.exe
